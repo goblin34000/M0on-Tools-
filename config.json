@@ -1,0 +1,40 @@
+{
+  "tool_name": "DataProcessor",
+  "version": "1.2.4",
+  "description": "Outil de traitement de données générique",
+  "debug": false,
+  "max_retries": 3,
+  "timeout": 30,
+  "log_level": "INFO",
+  "paths": {
+    "input_dir": "./data/input",
+    "output_dir": "./data/output",
+    "temp_dir": "./tmp",
+    "config_file": "settings.json"
+  },
+  "items": [
+    "fichier_1.csv",
+    "fichier_2.json",
+    "fichier_3.txt"
+  ],
+  "processing": {
+    "enabled": true,
+    "batch_size": 100,
+    "parallel": false,
+    "filters": {
+      "min_length": 1,
+      "remove_empty": true,
+      "lowercase": true
+    }
+  },
+  "output": {
+    "format": "json",
+    "pretty_print": true,
+    "include_checksum": true
+  },
+  "security": {
+    "require_auth": false,
+    "api_key": null,
+    "allowed_hosts": ["localhost", "127.0.0.1"]
+  }
+}
