@@ -5,13 +5,13 @@
 ### Educational purpose
 
 ### What’s included
-:vexorarrow: Discord grabber
-:vexorarrow: Grab passwords 
-:vexorarrow: Grab autofill data
-:vexorarrow: Uac bypass
-:vexorarrow: cookies stealer
-:vexorarrow: Anti vm/Debug/Analysis
-:vexorarrow: Much more...
+ Discord grabber
+ Grab passwords 
+ Grab autofill data
+ Uac bypass
+ cookies stealer
+ Anti vm/Debug/Analysis
+ Much more...
 
 ### Status
 Currently active and working
