@@ -5,13 +5,13 @@
 ### Educational purpose
 
 ### What’s included
- Discord grabber
- Grab passwords 
- Grab autofill data
- Uac bypass
- cookies stealer
- Anti vm/Debug/Analysis
- Much more...
+# Discord grabber
+# Grab passwords 
+# Grab autofill data
+# Uac bypass
+# cookies stealer
+# Anti vm/Debug/Analysis
+# Much more...
 
 ### Status
 Currently active and working
